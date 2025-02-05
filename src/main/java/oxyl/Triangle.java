@@ -1,5 +1,5 @@
 package oxyl;
-//test
+//ihui
 public class Triangle{
     private double x1;
     private double y1;
